@@ -1,0 +1,15 @@
+Quais passos manuais preciso fazer para enviar uma mensagem para 
+várias pessoas?
+
+1 - Lista de números;
+2 - Enviar individualmente uma mensagem para cada pessoa;
+3 - Pausar entre cada envio;
+
+1 - ESCOLHER UM CONTATO;
+2 - ENVIAR UMA MENSAGEM PARA ESSE CONTATO;
+	http://api.whatsapp.com/send?phone=5577981316999
+
+
+
+
+

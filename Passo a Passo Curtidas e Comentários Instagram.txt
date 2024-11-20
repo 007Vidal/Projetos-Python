@@ -1,0 +1,21 @@
+Bot de curtidas e comentários no Instagram com PyAutoGui
+
+-Vamos criar um bot que define qual página quer seguir, verifica 
+se a postagem mais atual ainda não foi curtida pelo boot. Caso uma nova postagem tenha 
+sido feita, ele deve entrar nessa postagem, curtir e comentar algo nela.
+
+1 - Navegar até o site https://www.instagram.com
+2 - Entrar com meu usuário
+3 - Entrar com minha senha
+4 - Clicar em log in
+5 - Clicar em not now para não salvar navegador;
+6 - fechar janela de "salvar senha"
+7 - Pesquisar pela página
+8 - Entrar na página
+9 - Clicar na postagem mais recente
+10 - Verificar se já curti ou não aquela postagem
+11 - Se já tiver curtido, não fazer nada, e pausar o boot por 24h;
+12 - Se não tiver curtido, curtir a foto
+13 - Se não tiver curtido comentar na foto
+14 - Pausar por 24h
+15 - Após 24h rodar tudo novamente
